@@ -196,23 +196,6 @@ const developer = {
 - 🎨 直觀的使用者介面
 
 </td>
-<td width="50%">
-
-#### 🤖 Courage Computer
-> 智能助手系統
-
-**技術棧：**
-- Python
-- Docker
-- Electron (桌面版)
-
-**亮點：**
-- 💬 智能對話功能
-- 🐳 Docker 容器化部署
-- 🖥️ 跨平台桌面應用
-- 📝 完整的專案文件
-
-</td>
 </tr>
 </table>
 
@@ -237,11 +220,11 @@ const developer = {
 ### 💡 技術領域
 
 ```text
+⚡ 網頁API開發        ████████████████ 100%
 🎵 音樂活動平台開發    ████████████████  90%
 ⚡ 效能優化與測試      ███████████████░  85%
 🕷️ 網頁爬蟲開發        ████████████████  90%
 🐳 容器化與部署        ██████████████░░  80%
-🌐 全端 Web 開發       ████████████████  95%
 🔧 Chrome 擴充套件     █████████████░░░  75%
 ```
 
@@ -256,24 +239,16 @@ const developer = {
 
 ---
 
-### 💬 隨機 Dev 語錄
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 聯絡我
 
 <p align="center">
   <a href="https://github.com/owancato">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:owancato@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/owancato/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

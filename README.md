@@ -152,27 +152,6 @@ const developer = {
 </td>
 <td width="50%">
 
-#### ⚡ IO Benchmark
-> 跨語言與框架的 I/O 效能基準測試工具
-
-**技術棧：**
-- Go
-- PHP + Laravel
-- Docker Compose
-- K6 負載測試
-
-**亮點：**
-- 📊 比較 Go 與 PHP/Laravel 效能差異
-- 🔬 詳細的實驗報告與數據分析
-- 🐳 完整的 Docker 化測試環境
-- 📈 可重現的測試方法論
-- 📝 實用的效能優化建議
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 #### 🎫 Ticket Support Tools
 > Chrome 擴充套件，提供售票平台的輔助功能
 

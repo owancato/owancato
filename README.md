@@ -11,15 +11,14 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🙋‍♂️ 關於我
 
 ```javascript
 const developer = {
-  name: "Owancato",
+  name: "owancato",
   location: "台灣 🇹🇼",
-  role: "後端工程師",
+  role: "Backend Engineer",
   code: ["PHP", "Python", "Go"],
   askMeAbout: ["web dev", "tech", "architecture", "music events"],
   technologies: {
@@ -28,10 +27,10 @@ const developer = {
       css: ["TailwindCSS", "Bootstrap"]
     },
     backEnd: {
+      php: ["Laravel"],
       js: ["Node", "Express"],
       python: ["FastAPI"],
-      go: ["Gin"],
-      php: ["Laravel"]
+      go: ["Gin"]
     },
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
     devOps: ["Docker", "AWS CDK", "GitHub Actions", "Grafana", "Prometheus"],

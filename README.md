@@ -117,13 +117,6 @@ const developer = {
 
 ---
 
-### 🔥 連續提交記錄
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owancato&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📊 GitHub 數據分析
 

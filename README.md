@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Taiwan-success" />
-  <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20Python%20%7C%20Go-ff69b4" />
+  <img src="https://img.shields.io/badge/Languages-PHP%20%7C%20Python%20%7C%20Go-ff69b4" />
   <img src="https://komarev.com/ghpvc/?username=owancato&color=blueviolet" />
 </p>
 

@@ -20,7 +20,7 @@ const developer = {
   name: "Owancato",
   location: "台灣 🇹🇼",
   role: "後端工程師",
-  code: ["Python", "Go", "PHP"],
+  code: ["PHP", "Python", "Go"],
   askMeAbout: ["web dev", "tech", "architecture", "music events"],
   technologies: {
     frontEnd: {
@@ -34,7 +34,7 @@ const developer = {
       php: ["Laravel"]
     },
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    devOps: ["Docker", "AWS CDK", "GitHub Actions"],
+    devOps: ["Docker", "AWS CDK", "GitHub Actions", "Grafana", "Prometheus"],
     tools: ["Git", "Postman", "Chrome Extensions"]
   },
   currentProjects: [
@@ -42,7 +42,7 @@ const developer = {
     "效能基準測試工具",
     "票務輔助系統"
   ],
-  funFact: "熱愛音樂活動與技術的完美結合 🎵"
+  funFact: "熱愛音樂, 也熱愛程式"
 };
 ```
 

@@ -38,6 +38,7 @@ const developer = {
   },
   currentProjects: [
     "樂團活動行事曆平台",
+    "高併發搶票系統",
     "效能基準測試工具",
     "票務輔助系統"
   ],
@@ -130,7 +131,28 @@ const developer = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
+
+#### ⚡ High-Concurrency Ticket System
+> 用 Go 實作的高併發搶票系統，結合 Redis 與 MySQL，驗證在高流量下如何避免超賣問題
+
+**技術棧：**
+- Go + Gin Framework
+- Redis (原子操作 Lua 腳本)
+- MySQL 8.0 (InnoDB)
+- Docker Compose
+
+**亮點：**
+- 🚀 QPS > 14,000，響應時間 < 10ms
+- 🔒 Redis + MySQL 雙層架構，確保無超賣
+- ⚡ 異步批量寫入，降低 MySQL 負擔
+- 📊 完整的負載測試與效能分析
+- 🛡️ 解決 warmup/sync 覆蓋、port 耗盡等實際問題
+
+[🔗 查看專案](https://github.com/owancato/high-concurrency-ticket-system)
+
+</td>
+<td width="33%">
 
 #### 🎵 Band Calendar
 > 整合多個售票平台的音樂活動行事曆系統
@@ -150,7 +172,7 @@ const developer = {
 - 🔍 進階篩選與搜尋功能
 
 </td>
-<td width="50%">
+<td width="33%">
 
 #### 🎫 Ticket Support Tools
 > Chrome 擴充套件，提供售票平台的輔助功能
@@ -184,6 +206,7 @@ const developer = {
 
 ```text
 ⚡ 網頁API開發        ████████████████ 100%
+⚡ 高併發系統設計      ███████████████░  90%
 ⚡ 效能優化與測試      ███████████████░  85%
 ⚡ 雲端伺服器維運＆監控  ███████████████░  85%
 🕷️ 網頁爬蟲開發        ██████████████░░  80%
